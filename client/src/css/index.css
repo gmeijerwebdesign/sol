@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.premade_sidenav-row {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.premade_sidenav-p {
+  display: block;
+  font-size: 15px;
+}
